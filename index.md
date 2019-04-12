@@ -1,4 +1,4 @@
-## Welcome to Homepage of XiaoY.Liu
+## Welcome to Homepage of XiaoYi.Liu
 
 #### Personal Information
 <table border="0"> 
