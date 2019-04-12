@@ -21,5 +21,5 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/General Relativity (to be continued).pdf"> General Relativity (to be continued) </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/QM homework for the first 7 weeks .pdf"> QM homework for the first 7 weeks </a></b></p> 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Statistical physics before week 8.pdf"> Statistical physics before week 8 </a></b></p> 
+<p><b><a href = "https://XiaoYLiu.GitHub.io/blob/master/statistical physics before week 8.pdf"> Statistical physics before week 8 </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Thermodynamics before week 8.pdf"> Thermodynamics before week 8 </a></b></p> 
