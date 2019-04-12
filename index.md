@@ -14,8 +14,10 @@
     </td>
   </tr> 
 </table>
-
-
+<p><b>I am now a junior student learning physics in BNU, Beijing. I am interested in fundamental physics, especially issuses on General Relativity and Quantum Field Theory.</b></p>
+<p><b>Skills:</b></p>
+<p><b>c, matlab, LaTex, Microsoft Office, Photoshop</b></p>
+<p><b>  </b></p>
 #### Files Shared
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Entanglement contour notes .pdf"> entanglement contour </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/General Relativity (to be continued).pdf"> General Relativity (to be continued) </a></b></p> 
