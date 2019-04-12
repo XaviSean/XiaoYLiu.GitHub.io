@@ -17,5 +17,5 @@
 
 
 #### Files Shared
-<a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/blob/master/laman.pdf"> laman </a>
+<a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/blob/master/Entanglement contour notes .pdf"> entanglement contour </a>
 
