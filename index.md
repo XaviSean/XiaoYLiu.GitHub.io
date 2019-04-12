@@ -15,8 +15,8 @@
   </tr> 
 </table>
 <p><b>I am now a junior student learning physics in BNU, Beijing. I am interested in fundamental physics, especially issuses on General Relativity and Quantum Field Theory.</b></p>
-<p><b>Skills:</b></p>
-<p><b>c, matlab, LaTex, Microsoft Office, Photoshop</b></p>
+<p><b>Skills: c, matlab, LaTex, Microsoft Office, Photoshop</b></p>
+<p><b>   </b></p>
 <p><b>  </b></p>
 
 ## Files Shared
