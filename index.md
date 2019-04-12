@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of XiaoY.Liu
+## Welcome to Homepage of XiaoY.Liu
 
 #### Personal Information
 <table border="0"> 
