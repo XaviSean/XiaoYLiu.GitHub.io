@@ -14,7 +14,7 @@
     </td>
   </tr> 
 </table>
-<p><b>I am interested in fundamental physics, especially issuses on General Relativity and Quantum Field Theory.</b></p>
+<p><b>I am interested in fundamental physics, especially issues on General Relativity and Quantum Field Theory.</b></p>
 <p><b>Skills: C, matlab, LaTex, Microsoft Office, Photoshop</b></p>
 <p><b>   </b></p>
 <p><b>  </b></p>
@@ -27,4 +27,4 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 </a></b></p> 
 <p><b>   </b></p>
-<p><b>Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a> .  </b></p>
+<p><b>Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a>as soon as I have finished them. </b></p>
