@@ -17,7 +17,7 @@
 
 
 #### Files Shared
-<p><b><a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/Entanglement contour notes .pdf"> entanglement contour </a></b></p> 
+<p><b><a href = "https:/XiaoYLiu.GitHub.io/Entanglement contour notes .pdf"> entanglement contour </a></b></p> 
 <p><b><a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/General Relativity (to be continued).pdf"> General Relativity (to be continued) </a></b></p> 
 <p><b><a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu </a></b></p> 
 <p><b><a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io/QM homework for the first 7 weeks .pdf"> QM homework for the first 7 weeks </a></b></p> 
