@@ -8,7 +8,6 @@
       <p><b>Undergraduate </b></p> 
       <p><b>the Department of Physics, BNU</b></p> 
       <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
-      
     </td> 
     <td width="25%"> 
       <img src="/证件照.jpg" width="100%"> 
