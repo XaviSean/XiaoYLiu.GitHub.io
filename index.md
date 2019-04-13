@@ -23,7 +23,7 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Entanglement contour notes .pdf"> entanglement contour </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/General Relativity (to be continued).pdf"> General Relativity (to be continued) </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu </a></b></p> 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/QM homework for the first 7 weeks .pdf"> QM homework for the first 7 weeks </a></b></p> 
+<p><b><a href = "https://XiaoYLiu.GitHub.io/QM homework for the first 6 weeks .pdf"> QM homework for the first 6 weeks </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 </a></b></p> 
 <p><b>   </b></p>
