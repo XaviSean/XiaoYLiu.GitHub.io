@@ -25,7 +25,7 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 (Final Version)</a></b></p>
 <p><b></b></p>
 <p><b>The following notes are taken when I learn SOLID STATE PHYSICS (Oxford) at Bilibili. I hope this may help.</b></p>
-<p><b><a href = "https://XiaoYLiu.GitHub.io/chapter 2.pdf"> Chapter 2 </a>: <font face="Myriad Pro" color="green" >Specific Heat of Solids: Boltzmann, Einstein and Debye.</font></b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/chapter 2.pdf"> Chapter 2 </a>:Specific Heat of Solids: Boltzmann, Einstein and Debye.</b></p>
 
 
 #### Homework during 2018-2019 spring
@@ -43,4 +43,4 @@
  
 
 <p><b>   </b></p>
-<p><b>Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a>as soon as I have finished them. </b></p>
+<p><b> <font face="Myriad Pro" color="green" >Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a>as soon as I have finished them. </fonts></b></p>
