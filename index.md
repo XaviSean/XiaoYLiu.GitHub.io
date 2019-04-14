@@ -43,4 +43,4 @@
  
 
 <p><b>   </b></p>
-<p><b> <font face="Myriad Pro" color="green" >Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a>as soon as I have finished them. </fonts></b></p>
+<p><b> <font face="Myriad Pro" color="green" >Due to my busy study, some of my notes may not be updated in time at this homepage. But I will try my best to upload them onto my <a href = "https://github.com/XiaoYLiu/XiaoYLiu.GitHub.io"> repository </a>as soon as I have finished them. </font></b></p>
