@@ -4,7 +4,7 @@
 <table border="0"> 
   <tr>
     <td width="75%">
-      <h1>Xiaoyi Liu</h1>
+      <h3>Xiaoyi Liu</h3>
       <p><b>Undergraduate </b></p> 
       <p><b>the Department of Physics, BNU</b></p> 
       <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
