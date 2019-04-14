@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-<p><b><h2><font color="maroon" >Xiaoyi Liu</font></h2></b></p>
+<p><b><h3><font color="maroon" >Xiaoyi Liu</font></h3></b></p>
 <p><b>Undergraduate </b></p> 
 <p><b>the Department of Physics, BNU</b></p> 
 <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
