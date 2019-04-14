@@ -20,7 +20,7 @@
 
 
 #### Notes during 2018-2019 Spring 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu  (to be continued)</a></b></p> 
+<p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu  (to be continued)</a>: Introduction to QFT and Path Integral</b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 (Final Version) </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 (Final Version)</a></b></p>
 <p><b></b></p>
