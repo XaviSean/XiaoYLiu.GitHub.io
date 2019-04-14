@@ -3,9 +3,19 @@
 ## Personal Information
 
 <p><b><h3><font color="maroon" >Xiaoyi Liu</font></h3></b></p>
-<p><b>Undergraduate </b></p> 
-<p><b>the Department of Physics, BNU</b></p> 
-<p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
+<table border="0"> 
+  <tr>
+    <td width="75%">
+      <p><b>Undergraduate </b></p> 
+      <p><b>the Department of Physics, BNU</b></p> 
+      <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
+    </td> 
+    <td width="25%"> 
+      <img src="/证件照.jpg" width="100%"> 
+    </td>
+  </tr> 
+</table>
+
    
 <p><b>I am interested in fundamental physics, especially issues on General Relativity and Quantum Field Theory.</b></p>
 <p><b>Skills: C, matlab, LaTex, Microsoft Office, Photoshop</b></p>
