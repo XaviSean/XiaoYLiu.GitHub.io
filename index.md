@@ -3,11 +3,11 @@
 ## Personal Information
 
 <p><b><h3><font color="maroon" >Xiaoyi Liu</font></h3></b></p>
-
-   <p><b>Undergraduate </b></p> 
-   <p><b>the Department of Physics, BNU</b></p> 
-   <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
-   
+<ul>
+   <li>Undergraduate </li> 
+   <li>the Department of Physics, BNU</li> 
+   <li>Email: 201611140116@mail.bnu.edu.cn</li>
+</ul>   
 
    
 <p><b>I am interested in fundamental physics, especially issues on General Relativity and Quantum Field Theory.</b></p>
