@@ -10,7 +10,7 @@
       <p><b>Email: 201611140116@mail.bnu.edu.cn</b></p>
     </td> 
     <td width="25%"> 
-      <img src="/证件照.jpg" width="100%"> 
+      <img src="/证件照.jpg" width="80%"> 
     </td>
   </tr> 
 </table>
