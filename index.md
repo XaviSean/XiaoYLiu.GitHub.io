@@ -30,8 +30,9 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.1.pdf"> stat. mech. 8.1</a></b></p>
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.2.pdf"> stat. mech. 8.2</a> (<a href = "https://XiaoYLiu.GitHub.io/chapter 2.pdf"> Chapter 2 </a> may help.)</b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/solid%20state%20physics%20chapter%204%EF%BC%88the%20latter%20part%EF%BC%89.pdf">  solid state physics chapter 4(the latter part)</a> </b></p>
 
-
+<p><b><a href = "https://XiaoYLiu.GitHub.io/solid state physics chapter 5.pdf">  solid state physics chapter 5</a> </b></p>
 
 <p><b></b></p>
 <!--<p><b>The following notes are taken when I learn SOLID STATE PHYSICS (Oxford) at Bilibili. I hope this may help.</b></p>
