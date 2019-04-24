@@ -34,6 +34,10 @@
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/solid state physics chapter 5.pdf">  solid state physics chapter 5</a> </b></p>
 
+<p><b><a href = "https://XiaoYLiu.GitHub.io/Solid%20State%20Physics%20mindmap.pdf">  revision of solid state physics</a> </b></p>
+
+
+
 <p><b></b></p>
 <!--<p><b>The following notes are taken when I learn SOLID STATE PHYSICS (Oxford) at Bilibili. I hope this may help.</b></p>
 <p><b>.</b></p>
