@@ -34,7 +34,7 @@
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/solid state physics chapter 5.pdf">  solid state physics chapter 5</a> </b></p>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Solid%20State%20Physics%20mindmap.pdf">  revision of solid state physics</a> </b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/Solid State Physics mindmap.pdf">  revision of solid state physics</a> </b></p>
 
 
 
