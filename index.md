@@ -31,7 +31,7 @@
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.2.pdf"> stat. mech. 8.2</a> (<a href = "https://XiaoYLiu.GitHub.io/chapter 2.pdf"> Chapter 2 </a> may help.)</b></p>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.1.pdf"> stat. mech. 8.2</a> </b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.1.pdf"> stat. mech. 12.1</a> </b></p>
 
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/solid%20state%20physics%20chapter%204%EF%BC%88the%20latter%20part%EF%BC%89.pdf">  solid state physics chapter 4(the latter part)</a> </b></p>
