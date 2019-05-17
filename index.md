@@ -23,18 +23,21 @@
 
 
 #### Notes during 2018-2019 Spring 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu  (to be continued)</a>: Introduction to QFT and Path Integral</b></p> 
+<ul>
+<li><p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu  (to be continued)</a>: Introduction to QFT and Path Integral</b></p> </li>
+
 <p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 (Final Version) </a></b></p> 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 (Final Version)</a></b></p>
+
 <p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics 9.1.pdf"> Thermodynamics 9.1</a> </b></p>
 
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.1.pdf"> stat. mech. 8.1</a></b></p>
+<li><p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.1.pdf"> stat. mech. 8.1</a></b></p>
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.2.pdf"> stat. mech. 8.2</a> (<a href = "https://XiaoYLiu.GitHub.io/chapter 2.pdf"> Chapter 2 </a> may help.)</b></p>
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.1.pdf"> stat. mech. 12.1</a> </b></p>
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.2.pdf"> stat. mech. 12.2</a> </b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.2.pdf"> stat. mech. 12.2</a> </b></p></li>
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/solid%20state%20physics%20chapter%204%EF%BC%88the%20latter%20part%EF%BC%89.pdf">  solid state physics chapter 4(the latter part)</a> </b></p>
 
@@ -42,7 +45,7 @@
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Solid State Physics mindmap.pdf">  revision of solid state physics</a> </b></p>
 
-
+</ul>
 
 <p><b></b></p>
 <!--<p><b>The following notes are taken when I learn SOLID STATE PHYSICS (Oxford) at Bilibili. I hope this may help.</b></p>
