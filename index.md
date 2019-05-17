@@ -26,10 +26,10 @@
 <ul>
 <li><p><b><a href = "https://XiaoYLiu.GitHub.io/QFT by Xiaohui Liu .pdf"> QFT by Xiaohui Liu  (to be continued)</a>: Introduction to QFT and Path Integral</b></p> </li>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 (Final Version) </a></b></p> 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 (Final Version)</a></b></p>
+<li><p><b><a href = "https://XiaoYLiu.GitHub.io/statistical%20physics%20before%20week%208.pdf"> Statistical physics before week 8 (Final Version) </a></b></p> 
+<p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics%20before%20week%208.pdf"> Thermodynamics before week 8 (Final Version)</a></b></p></li>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics 9.1.pdf"> Thermodynamics 9.1</a> </b></p>
+<li><p><b><a href = "https://XiaoYLiu.GitHub.io/thermodynamics 9.1.pdf"> Thermodynamics 9.1</a> </b></p></li>
 
 
 <li><p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 8.1.pdf"> stat. mech. 8.1</a></b></p>
@@ -39,11 +39,11 @@
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.1.pdf"> stat. mech. 12.1</a> </b></p>
 <p><b><a href = "https://XiaoYLiu.GitHub.io/Stat. Mech. 12.2.pdf"> stat. mech. 12.2</a> </b></p></li>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/solid%20state%20physics%20chapter%204%EF%BC%88the%20latter%20part%EF%BC%89.pdf">  solid state physics chapter 4(the latter part)</a> </b></p>
+<li><p><b><a href = "https://XiaoYLiu.GitHub.io/solid%20state%20physics%20chapter%204%EF%BC%88the%20latter%20part%EF%BC%89.pdf">  solid state physics chapter 4(the latter part)</a> </b></p>
 
 <p><b><a href = "https://XiaoYLiu.GitHub.io/solid state physics chapter 5.pdf">  solid state physics chapter 5</a> </b></p>
 
-<p><b><a href = "https://XiaoYLiu.GitHub.io/Solid State Physics mindmap.pdf">  revision of solid state physics</a> </b></p>
+<p><b><a href = "https://XiaoYLiu.GitHub.io/Solid State Physics mindmap.pdf">  revision of solid state physics</a> </b></p></li>
 
 </ul>
 
